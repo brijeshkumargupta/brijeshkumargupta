@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning kotlin
 - 💬 Ask me about any Android and tech related questions 
 - 📫 How to reach me: YouTube: <a href="https://www.youtube.com/channel/UC-xTxkXjgVOodCLN99FOBDg">Tech Samrat</a>
+- 😄 Pronouns: He/his
+
 
 
 <!--
