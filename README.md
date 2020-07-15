@@ -1,4 +1,10 @@
-### Hi there 👋
+BrijeshKumar Gupta
+
+- 🔭 I’m currently working on self improvement
+- 🌱 I’m currently learning kotlin
+- 💬 Ask me about any Android and tech related questions 
+- 📫 How to reach me: YouTube: <a href="https://www.youtube.com/channel/UC-xTxkXjgVOodCLN99FOBDg">Tech Samrat</a>
+
 
 <!--
 **brijeshkumargupta/brijeshkumargupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
