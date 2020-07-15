@@ -1,4 +1,4 @@
-BrijeshKumar Gupta
+<h1><b>BrijeshKumar Gupta</b></h1>
 
 - 🔭 I’m currently working on self improvement
 - 🌱 I’m currently learning kotlin
