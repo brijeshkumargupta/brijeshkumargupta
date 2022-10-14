@@ -1,7 +1,7 @@
 <h1><b>BrijeshKumar Gupta</b></h1>
 
 - 🔭 I’m currently working on self improvement
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning flutter
 - 💬 Ask me about any Android and tech related questions 
 - 📫 How to reach me: YouTube: <a href="https://www.youtube.com/channel/UC-xTxkXjgVOodCLN99FOBDg">Tech Samrat</a>
 - 😄 Pronouns: He/his
