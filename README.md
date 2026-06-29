@@ -1,6 +1,6 @@
 <h1><b>BrijeshKumar Gupta</b></h1>
 
-- 🔭 I’m currently working on self improvement
+- 🔭 I’m currently working on SenseAI (Elder care IoT project)
 - 🌱 I’m currently learning full-stack
 - 📫 How to reach me: <a href="mailto:someone@example.com">Send Email</a>
 - 😄 Pronouns: He/his
