@@ -1,9 +1,8 @@
 <h1><b>BrijeshKumar Gupta</b></h1>
 
 - 🔭 I’m currently working on self improvement
-- 🌱 I’m currently learning flutter
-- 💬 Ask me about any Android and tech related questions 
-- 📫 How to reach me: YouTube: <a href="https://www.youtube.com/channel/UC-xTxkXjgVOodCLN99FOBDg">Tech Samrat</a>
+- 🌱 I’m currently learning full-stack
+- 📫 How to reach me: <a href="mailto:someone@example.com">Send Email</a>
 - 😄 Pronouns: He/his
 <img src="https://github-readme-stats.vercel.app/api?username=brijeshkumargupta&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
